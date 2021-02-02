@@ -1,11 +1,5 @@
 # RipeSearch
 
-
-| . \| || . \| __> / __>| __>| . || . \|  _>| | |
-|   /| ||  _/| _>  \__ \| _> |   ||   /| <__|   |
-|_\_\|_||_|  |___> <___/|___>|_|_||_\_\`___/|_|_|
-
-
 This script is designed to identify target IP ranges stored by RIPE NCC.
 
 Ranges can identified using the following to search types:
